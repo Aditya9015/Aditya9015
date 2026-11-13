@@ -50,13 +50,13 @@ I'm **Aditya Yadav**, an Android and AI engineer. I build Android apps, wire AI 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya_9015&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya_9015&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya_9015E&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya_9015&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -64,9 +64,8 @@ I'm **Aditya Yadav**, an Android and AI engineer. I build Android apps, wire AI 
 
 I'm open to Android, AI and automation projects, freelance work and full-time roles.
 
-📩 Email: adityayadav.dtu@gmail.com(mailto:adityayadav.dtu@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-yadav-417785200(https://www.linkedin.com/in/aditya-yadav-417785200)
-
+📩 Email: adityayadav.dtu@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-yadav-417785200
 ---
 
 ## 🎯 Fun Fact
