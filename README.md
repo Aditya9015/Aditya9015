@@ -64,14 +64,15 @@ I'm **Aditya Yadav**, an Android and AI engineer. I build Android apps, wire AI 
 
 I'm open to Android, AI and automation projects, freelance work and full-time roles.
 
-📩 Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
-🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+📩 Email: adityayadav.dtu@gmail.com(mailto:adityayadav.dtu@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-yadav-417785200(https://www.linkedin.com/in/aditya-yadav-417785200)
 
 ---
 
 ## 🎯 Fun Fact
 
 > I'll happily spend three hours automating a task that takes ten minutes by hand.
+> I build app that generate Revenue because it is the ultimate goal in life.
 
 ---
 
