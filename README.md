@@ -1,13 +1,16 @@
-# Hi, I'm Aditya 👋
-### Android & AI Engineer | Automation Enthusiast
+<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h3 align="center">Android & AI Engineer | Automation Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Building+Android+apps+with+Kotlin;Kotlin+%7C+Jetpack+Compose+%7C+Python+%7C+LLMs;Automating+workflows+end+to+end;Open+to+Android+%26+AI+roles)](https://github.com/YOUR_USERNAME)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Building+Android+apps+with+Kotlin;Kotlin+%7C+Jetpack+Compose+%7C+Python+%7C+LLMs;Automating+workflows+end+to+end;Open+to+Android+%26+AI+roles" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm **Aditya Yadav**, an Android and AI engineer. I build Android apps, wire AI models into real products, and automate the repetitive workflows that slow teams down. If a task has to be done twice, I'd rather write something that does it for me.
+I'm Aditya Yadav, an Android and AI engineer who builds mobile apps and wires AI models into real products.
+I like automating workflows: if a task has to be done twice, I'd rather build something that does it for me.
 
 ---
 
@@ -20,29 +23,29 @@ I'm **Aditya Yadav**, an Android and AI engineer. I build Android apps, wire AI 
 
 ### 📱 Android
 ![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Gradle](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### 🤖 AI & Automation
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW%20LITE-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TENSORFLOW_LITE-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🛠️ Tools
-![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Currently Working On
 
-- 📱 Building Android apps with Kotlin and Jetpack Compose
+- 📱 Android apps with Kotlin and Jetpack Compose
 - 🤖 Bringing AI features (LLMs, on-device models) into mobile apps
 - 🔄 Automating everyday workflows with scripts, agents and pipelines
 
@@ -50,29 +53,36 @@ I'm **Aditya Yadav**, an Android and AI engineer. I build Android apps, wire AI 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya9015&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya9015&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9015&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9015&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aditya9015&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya9015E&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya9015&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya9015&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm open to Android, AI and automation projects, freelance work and full-time roles.
+I'm open to Android, AI and automation projects, and to Android & AI Engineer roles.
 
 📩 Email: adityayadav.dtu@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-yadav-417785200
+
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-yadav-417785200/
+
 ---
 
 ## 🎯 Fun Fact
 
-> I'll happily spend three hours automating a task that takes ten minutes by hand.
-> I build app that generate Revenue because it is the ultimate goal in life.
+> I'll happily spend three hours automating a task that takes ten minutes by hand... and call it a win! 😄
+> I make mobile apps and websites to generate revenue because it's the ultimate goal.
 
 ---
 
-*Thanks for stopping by! ⭐ Star my repos if you like them.*
+<p align="center"><i>Thanks for stopping by! ⭐ Star my repos if you like them.</i></p>
